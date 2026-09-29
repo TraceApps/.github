@@ -1,0 +1,5 @@
+# Default funding sources for every TraceApps repo without its own FUNDING.yml.
+# These appear as the "Sponsor" button on the GitHub repo page.
+
+github: [TraceApps]
+ko_fi: traceapps
