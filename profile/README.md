@@ -19,4 +19,4 @@ From the same developer: **[Fathom](https://github.com/Fathom-Media/fathom)**, a
 
 ### Support
 
-The Trace apps are built and maintained by one person. Starring the repos, reporting bugs with detail, and [translating](https://traceapps.github.io/docs/contribute/translations/) all help, and they're free. If you'd like to chip in, [GitHub Sponsors](https://github.com/sponsors/TraceApps) covers the monthly costs, and the [iOS fund on Ko-fi](https://ko-fi.com/traceapps) is saving for a Mac and an iPhone. The details are on the [Support page](https://traceapps.github.io/docs/support/).
+The Trace apps are built and maintained by one person. Starring the repos, reporting bugs with detail, and [translating](https://traceapps.github.io/docs/contribute/translations/) all help, and they're free. If you'd like to chip in, support on [Ko-fi](https://ko-fi.com/traceapps) goes toward a Mac and an iPhone so the apps can come to Apple devices, and [GitHub Sponsors](https://github.com/sponsors/TraceApps) helps with the monthly costs. The details are on the [Support page](https://traceapps.github.io/docs/support/).
